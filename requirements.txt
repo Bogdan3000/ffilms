@@ -2,3 +2,4 @@ pymorphy2==0.9.1
 requests==2.31.0
 vkbottle==4.3.12
 httpx==0.26.0
+bs4==0.0.2
